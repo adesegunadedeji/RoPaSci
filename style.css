@@ -1,0 +1,24 @@
+.planner{
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+
+nav.navbar{
+    background-color: #201E1F !important;
+}
+a.navbar-brand{
+    color: white !important;
+}
+body{
+    background-color: #50B2C0;
+    align-items: center;
+}
+
+.choices{
+    background-color:  #FF4000 !important ;
+}
+
+.rules{
+    background-color:  #0CCA4A !important ;
+}
